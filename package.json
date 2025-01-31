@@ -1,0 +1,12 @@
+{
+  "name": "tech-campus-recruitment-2025",
+  "version": "1.0.0",
+  "description": "You are tasked with developing a solution to efficiently extract logs from a large log file. The file is approximately **1 TB** in size and contains logs generated over multiple years. Each log entry starts with a timestamp, followed by the log level, and then the log message. Logs are generated almost equally every day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
